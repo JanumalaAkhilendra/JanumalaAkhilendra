@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @JanumalaAkhilendra
 - 👀 I’m interested in Machine Learning and web developement 
 - 🌱 I’m currently learning data structures and algorithms,reactjs.
+- 💞️ I love reading  Roamantic Novels , Science fiction Stories.
 - 💞️ I’m looking to collaborate on Machine Learning algorithms.
 - 📫 Email:- janumalaakhilendra01122000@gmail.com
 - linkedin :-https://www.linkedin.com/in/janumala-akhilendra-067940201/
