@@ -1,4 +1,4 @@
-[![MasterHead](https://snyk.io/blog/github-security-code-scanning/)]
+[![MasterHead]([https://snyk.io/blog/github-security-code-scanning/](https://gfycat.com/betterhandmadegull))]
 <h1 align="center">Hi 👋, I'm Janumala Akhilendra</h1>
 <h3 align="center">A passionate Programmer and Web developer Based from India</h3>
 
