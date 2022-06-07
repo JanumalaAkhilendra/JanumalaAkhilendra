@@ -1,4 +1,4 @@
-utm_content=DAFC8ecE2E4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))]
+
 <h1 align="center">Hi 👋, I'm Janumala Akhilendra</h1>
 <h3 align="center">A passionate Programmer and Web developer Based from India</h3>
 
