@@ -1,4 +1,3 @@
-[![Header](https://www.creative-tim.com/blog/content/images/size/w1140/2021/08/rebranding-post--1-.jpg "Header")](https://www.creative-tim.com/)
 
 <h1 align="center">Hi 👋, I'm Janumala Akhilendra</h1>
 <h3 align="center">A passionate Programmer and Web developer Based from India</h3>
