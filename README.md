@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Janumala Akhilendra</h1>
 <h3 align="center">A passionate Programmer and Web developer Based from India</h3>
 
-![Snake animation](https://github.com/JanumalaAkhilendra/JanumalaAkhilendra/blob/snake/snake.svg)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janumalaakhilendra&label=Profile%20views&color=0e75b6&style=flat" alt="janumalaakhilendra" /> </p>
 
