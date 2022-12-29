@@ -1,7 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 
 [![An image of @akhilendra_111's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akhilendra_111)](https://holopin.io/@akhilendra_111)
-
 <h1 align="center">Hi 👋, I'm Janumala Akhilendra</h1>
 <h3 align="center">A passionate Programmer and Web developer Based from India</h3>
 
