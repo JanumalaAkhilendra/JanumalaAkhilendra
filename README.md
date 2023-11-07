@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+
 
 [![An image of @akhilendra_111's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akhilendra_111)](https://holopin.io/@akhilendra_111)
 <h1 align="center">Hi 👋, I'm Janumala Akhilendra</h1>
@@ -12,18 +12,18 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Chrome Extension**
+- 🔭 I’m currently working on **Chrome Extension**.
 
-- 🌱 I’m currently learning **Mern Stack**
+- 🌱 I’m currently learning **Mern Stack**.
 
-- 👯 I’m looking to collaborate on **Machine Learning Algorithms**
+- 👯 I’m looking to collaborate on **Machine Learning Algorithms**.
 
-- 👨‍💻 All of my projects are available at [https://janumalaakhilendra.github.io/portfolio-akhil2/](https://janumalaakhilendra.github.io/portfolio-akhil2/)
+- 👨‍💻 All of my projects are available at [https://janumalaakhilendra.github.io/portfolio-akhil2/](https://janumalaakhilendra.github.io/portfolio-akhil2/).
 
 
-- 📫 How to reach me **janumalaakhilendra01122000@gmail.com**
+- 📫 How to reach me **janumalaakhilendra01122000@gmail.com**.
 
-- 📄 Know about my experiences [https://janumalaakhilendra.github.io/portfolio-akhil2/](https://janumalaakhilendra.github.io/portfolio-akhil2/)
+- 📄 Know about my experiences [https://janumalaakhilendra.github.io/portfolio-akhil2/](https://janumalaakhilendra.github.io/portfolio-akhil2/).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
