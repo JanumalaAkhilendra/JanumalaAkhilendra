@@ -10,9 +10,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working as **Web Developer**.
+- 🔭 I’m currently working as **Full Stack Developer at BollyGrad Studioz**.
 
-- 🌱 I’m currently learning **Mern Stack**.
+- 🌱 I’m currently learning **MEAN Stack**.
 
 - 👯 I’m looking to contribute on **Open Source**.
 
